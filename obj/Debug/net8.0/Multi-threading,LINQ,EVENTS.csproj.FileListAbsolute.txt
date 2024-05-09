@@ -1,0 +1,14 @@
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\bin\Debug\net8.0\Multi-threading,LINQ,EVENTS.exe
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\bin\Debug\net8.0\Multi-threading,LINQ,EVENTS.deps.json
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\bin\Debug\net8.0\Multi-threading,LINQ,EVENTS.runtimeconfig.json
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\bin\Debug\net8.0\Multi-threading,LINQ,EVENTS.dll
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\bin\Debug\net8.0\Multi-threading,LINQ,EVENTS.pdb
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.AssemblyInfoInputs.cache
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.AssemblyInfo.cs
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.csproj.CoreCompileInputs.cache
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.dll
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\refint\Multi-threading,LINQ,EVENTS.dll
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.pdb
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\Multi-threading,LINQ,EVENTS.genruntimeconfig.cache
+C:\Users\BFI ITG\Downloads\quiz\Multi-threading,LINQ,EVENTS\obj\Debug\net8.0\ref\Multi-threading,LINQ,EVENTS.dll
